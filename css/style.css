@@ -34,7 +34,7 @@ img {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;   
+    justify-content: space-between;
     padding-top: 38px;
 }
 
@@ -152,7 +152,7 @@ justify-content: space-between;
     outline: none;
     display: block;
     margin: 10px auto;
-    
+
 }
 
 .header-dots .slick-active button{
@@ -185,13 +185,13 @@ justify-content: space-between;
     justify-content: space-between;
     max-width: 980px;
     margin: 0 auto;
-    
+
 }
 
 .specialised__item-img {
     display: inline-block;
     margin-bottom: 23px;
-    min-height: 159px; 
+    min-height: 159px;
 }
 
 .specialised__item {
@@ -277,7 +277,7 @@ justify-content: space-between;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    
+
 }
 
 .reviews__item {
@@ -368,11 +368,11 @@ justify-content: space-between;
 
 
 @media screen and (max-width: 1190px){
-    
+
     .header-slider {
         margin-top: 25px;
     }
-    
+
     .header-slider__item-pic {
         margin: 50px 20px 0 0;
     }
@@ -393,7 +393,7 @@ justify-content: space-between;
         text-align: center;
     }
 
-    .advantages-box__pic { 
+    .advantages-box__pic {
         display: inline-block;
         width: 80%;
     }
@@ -446,20 +446,20 @@ justify-content: space-between;
         width: 48%;
         margin-bottom: 25px;
     }
-    
+
 }
 
 
 @media screen and (max-width: 924px){
 
-    
+
 
     .header-btn {
         display: flex;
         width: 100%;
         align-items: center;
         justify-content: flex-end;
-        margin-top: 5px; 
+        margin-top: 5px;
     }
 
     .login {
@@ -490,7 +490,7 @@ justify-content: space-between;
 
    .advantages-box {
        padding-bottom: 20px;
-   } 
+   }
 
    .advantages {
        padding-top: 0;
@@ -589,7 +589,7 @@ justify-content: space-between;
         position: absolute;
     }
 
-    .header__burger::after, 
+    .header__burger::after,
     .header__burger::before {
         content: "";
         width: 100%;
@@ -610,7 +610,7 @@ justify-content: space-between;
         padding: 15px 30px 15px 0;
     }
 
-    
+
     .header-slider__desc {
         margin-bottom: 20px;
         font-size: 20px;
@@ -623,7 +623,7 @@ justify-content: space-between;
 
     .specialised__item {
         width: 100%;
-    
+
     }
     .title {
         font-size: 30px;
@@ -651,7 +651,7 @@ justify-content: space-between;
         margin-left: 45px;
     }
 
-    
+
 }
 
 @media screen and (min-width: 569px){
@@ -659,12 +659,12 @@ justify-content: space-between;
         margin-left: 0px;
     }
 
-    
+
 }
 
 
 @media screen and (min-width: 571px){
-    
+
     .header__list {
         display: flex !important;
     }
